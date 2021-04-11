@@ -1,7 +1,8 @@
+## Networks
+
+All networks are documented in the format of 'Xlsx' with all parameters, nodes and reactions.
+
 ## Network Updates
-
-
-
 
 2.0: 
 
